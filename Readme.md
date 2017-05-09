@@ -20,7 +20,7 @@ After clone or fork the project to your local repository run the following to in
 
 ```
 npm install
-npm install --save-dev jasmine ( ass the test environment)
+npm install --save-dev jasmine ( install the test environment)
 ```
 
 ### Jasmine Initiation(optional)
